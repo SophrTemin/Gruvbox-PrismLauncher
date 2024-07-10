@@ -5,6 +5,8 @@ This repository was created in case my theme and icons are not accepted in the m
 * Theme in gruvbox
 * Icon theme in gruvbox
 
+## support pull request in PrismLauncher/Themes: [click](https://github.com/PrismLauncher/Themes/pull/56) and [click](https://github.com/PrismLauncher/Themes/pull/51)
+
 ## Preview
 ![preview](preview.png)
 
