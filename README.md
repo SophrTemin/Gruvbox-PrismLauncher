@@ -1,3 +1,4 @@
+# works with all MultiMC forks!
 # Description
 This repository was created in case my theme and icons are not accepted in the main Prism Launcher [theme](https://github.com/PrismLauncher/Themes) repository.
 ## The repository includes
