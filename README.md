@@ -3,6 +3,10 @@ This repository was created in case my theme and icons are not accepted in the m
 ## The repository includes
 * Theme in gruvbox
 * Icon theme in gruvbox
+
+## Preview
+![preview](preview.png)
+
 ## The themes was created
 * Sophron Teminik(theme and icon pack)
 * Sylwia Ptasinska(icon pack gruvbox plus)
